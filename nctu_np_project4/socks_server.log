@@ -1,0 +1,2422 @@
+<S_IP>:	140.113.214.197
+<S_PORT>:	50513
+<D_IP>:	40.90.190.236
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50514
+<D_IP>:	140.113.199.40
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50515
+<D_IP>:	140.113.199.40
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50516
+<D_IP>:	140.113.199.40
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_IP>:	140.113.214.197
+<S_PORT>:	50518
+<S_PORT>:	50517
+<D_IP>:	140.113.199.40
+<D_IP>:	140.113.199.40
+<D_PORT>:	443
+<D_PORT>:	443
+<Command>:	CONNECT
+<Command>:	CONNECT
+<Reply>:	Accept
+<Reply>:	Accept
+
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50519
+<S_IP>:	140.113.214.197
+<S_PORT>:	50520
+<D_IP>:	172.217.160.74
+<D_IP>:	209.197.3.15
+<D_PORT>:	443
+<D_PORT>:	443
+<Command>:	CONNECT
+<Command>:	CONNECT
+<Reply>:	Accept
+<Reply>:	Accept
+
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50522
+<D_IP>:	61.56.4.184
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50521
+<D_IP>:	209.197.3.15
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50523
+<D_IP>:	216.58.200.46
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50524
+<D_IP>:	163.28.5.19
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50525
+<D_IP>:	163.28.5.19
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50526
+<D_IP>:	172.217.27.131
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50527
+<D_IP>:	61.56.4.184
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50528
+<D_IP>:	172.217.160.78
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50529
+<D_IP>:	40.90.190.236
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50530
+<D_IP>:	140.113.199.40
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50531
+<D_IP>:	140.113.199.40
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50532
+<D_IP>:	140.113.199.40
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50533
+<D_IP>:	140.113.199.40
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50534
+<D_IP>:	140.113.199.40
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50535
+<D_IP>:	172.217.160.74
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50536
+<D_IP>:	209.197.3.15
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50537
+<D_IP>:	61.56.4.184
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50538
+<D_IP>:	61.56.4.184
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50539
+<D_IP>:	172.217.27.131
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50540
+<D_IP>:	163.28.5.33
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50541
+<D_IP>:	172.217.160.78
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50542
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50543
+<D_IP>:	219.87.64.165
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50544
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50545
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50546
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50547
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50548
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50549
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50550
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50553
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50552
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50551
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50554
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50555
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50556
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50557
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50558
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50559
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50560
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50561
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50562
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_IP>:	140.113.214.197
+<S_PORT>:	50563
+<D_IP>:	140.114.69.135
+<S_IP>:	140.113.214.197
+<S_PORT>:	50567
+<S_IP>:	140.113.214.197
+<S_PORT>:	50564
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50568
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<S_IP>:	140.113.214.197
+<S_PORT>:	50566
+<S_PORT>:	50565
+<D_PORT>:	443
+<D_IP>:	140.114.69.135
+<Command>:	CONNECT
+<Command>:	CONNECT
+<Reply>:	Accept
+<D_PORT>:	443
+
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<Reply>:	Accept
+
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50570
+<S_IP>:	140.113.214.197
+<S_PORT>:	50569
+<D_IP>:	140.114.69.135
+<D_IP>:	172.217.27.142
+<D_PORT>:	443
+<D_PORT>:	443
+<Command>:	CONNECT
+<Command>:	CONNECT
+<Reply>:	Accept
+<Reply>:	Accept
+
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50571
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50572
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50573
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+<S_IP>:	140.113.214.197
+
+<S_PORT>:	50574
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50575
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50576
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50577
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50578
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50579
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50580
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50581
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50582
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50583
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50584
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50585
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50586
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50587
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50588
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50589
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50590
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50591
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50592
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50593
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50594
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50595
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50596
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50597
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50598
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50599
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50600
+<D_IP>:	172.217.160.66
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50601
+<D_IP>:	216.58.200.228
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50602
+<D_IP>:	172.217.27.131
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50603
+<D_IP>:	172.217.160.78
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50604
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50605
+<D_IP>:	140.113.14.28
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50606
+<D_IP>:	172.217.160.65
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50607
+<D_IP>:	216.58.200.38
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50609
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<S_IP>:	140.113.214.197
+<S_PORT>:	50610
+<Command>:	CONNECT
+<D_IP>:	140.114.69.135
+<Reply>:	Accept
+<D_PORT>:	443
+<S_IP>:	140.113.214.197
+
+<Command>:	CONNECT
+<S_PORT>:	50608
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50611
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50612
+<D_IP>:	216.58.200.228
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50613
+<D_IP>:	172.217.160.67
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50614
+<D_IP>:	172.217.160.99
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50615
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50616
+<D_IP>:	172.217.27.130
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50617
+<D_IP>:	216.58.200.228
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50618
+<D_IP>:	172.217.160.67
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50619
+<D_IP>:	172.217.160.99
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50620
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50621
+<D_IP>:	172.217.27.130
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50622
+<D_IP>:	172.217.27.142
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.235.224
+<S_PORT>:	39375
+<D_IP>:	140.113.235.224
+<D_PORT>:	39220
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.235.224
+<S_PORT>:	39374
+<D_IP>:	140.113.235.224
+<D_PORT>:	39220
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.235.224
+<S_PORT>:	39376
+<D_IP>:	140.113.235.224
+<D_PORT>:	39220
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.208
+<S_PORT>:	11797
+<D_IP>:	209.90.88.139
+<D_PORT>:	21
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.208
+<S_PORT>:	11798
+<D_IP>:	209.90.88.139
+<D_PORT>:	21
+<Command>:	BIND
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.208
+<S_PORT>:	11799
+<D_IP>:	209.90.88.139
+<D_PORT>:	21
+<Command>:	BIND
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.208
+<S_PORT>:	11801
+<D_IP>:	209.90.88.139
+<D_PORT>:	21
+<Command>:	BIND
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.208
+<S_PORT>:	11802
+<D_IP>:	209.90.88.139
+<D_PORT>:	21
+<Command>:	BIND
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50637
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50638
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50639
+<D_IP>:	172.217.27.138
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50640
+<D_IP>:	172.217.27.138
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50641
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50642
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50646
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50644
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50643
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50647
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50645
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50648
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50649
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50650
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50651
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50652
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50653
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50654
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50655
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50656
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50657
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50658
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50659
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50660
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50662
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50661
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50663
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50665
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50664
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50666
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50667
+<D_IP>:	172.217.27.142
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50668
+<D_IP>:	172.217.160.110
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50669
+<D_IP>:	216.58.200.238
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50670
+<D_IP>:	172.217.27.142
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50671
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50672
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50673
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50674
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50675
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50676
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50677
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50678
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50679
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50680
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50681
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50682
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50683
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50684
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50685
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50686
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50687
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50688
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50689
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50690
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50691
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50692
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50693
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50694
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50695
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50696
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50697
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50698
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50699
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50700
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50701
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50702
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50703
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50704
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50705
+<D_IP>:	40.90.190.236
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50706
+<D_IP>:	140.113.199.40
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50707
+<D_IP>:	140.114.60.160
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50708
+<D_IP>:	140.114.60.160
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50709
+<D_IP>:	140.114.60.160
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50710
+<D_IP>:	140.114.60.160
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50711
+<D_IP>:	140.114.60.160
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50712
+<D_IP>:	140.114.60.160
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50713
+<S_IP>:	140.113.214.197
+<S_PORT>:	50714
+<D_IP>:	172.217.160.74
+<D_PORT>:	443
+<D_IP>:	209.197.3.15
+<Command>:	CONNECT
+<D_PORT>:	443
+<Reply>:	Reject
+
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50715
+<D_IP>:	61.56.4.184
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50716
+<D_IP>:	61.56.4.184
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50717
+<S_IP>:	140.113.214.197
+<D_IP>:	172.217.160.74
+<S_PORT>:	50718
+<D_PORT>:	443
+<D_IP>:	209.197.3.15
+<Command>:	CONNECT
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50719
+<D_IP>:	209.197.3.15
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50720
+<D_IP>:	172.217.160.74
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50721
+<D_IP>:	209.197.3.15
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50722
+<D_IP>:	172.217.160.74
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50723
+<D_IP>:	209.197.3.15
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50724
+<D_IP>:	209.197.3.15
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50725
+<D_IP>:	209.197.3.15
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50726
+<D_IP>:	61.56.4.184
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50727
+<D_IP>:	61.56.4.184
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50728
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50729
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50731
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50734
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50732
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50733
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50736
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50735
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50737
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50738
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50739
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50740
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50741
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50742
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50743
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50744
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50745
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50746
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50747
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50748
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50749
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50750
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50751
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_IP>:	140.113.214.197
+<S_PORT>:	50753
+<S_IP>:	140.113.214.197
+<S_PORT>:	50752
+<D_IP>:	140.114.69.135
+<S_PORT>:	50754
+<D_IP>:	140.114.69.135
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<D_PORT>:	443
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50755
+<S_IP>:	140.113.214.197
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_PORT>:	50756
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50757
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50758
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50759
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50760
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50761
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50762
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50763
+<D_IP>:	172.217.160.78
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50764
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50765
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50766
+<D_IP>:	172.217.27.142
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50767
+<D_IP>:	172.217.160.110
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50768
+<D_IP>:	216.58.200.238
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50769
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50770
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50771
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50772
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50773
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50774
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50775
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50776
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50777
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50778
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50779
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50780
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50781
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50782
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50783
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50784
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50785
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50786
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50787
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50788
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50789
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50790
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50791
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50792
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50793
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50794
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50795
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50796
+<D_IP>:	172.217.160.100
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50797
+<D_IP>:	172.217.160.100
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50798
+<D_IP>:	172.217.160.100
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50799
+<D_IP>:	172.217.160.100
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50801
+<D_IP>:	140.114.69.135
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50802
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50804
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50803
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50806
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50805
+<S_IP>:	140.113.214.197
+<S_PORT>:	50808
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50807
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50810
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50809
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50811
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50812
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50813
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50814
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50815
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50816
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50817
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50818
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50819
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50820
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50821
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50823
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50822
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50826
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50825
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50824
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50827
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50828
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50829
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50830
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50831
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50832
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50833
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50834
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50835
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50836
+<D_IP>:	172.217.160.78
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50837
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50838
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50839
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50840
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50841
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50842
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50843
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50844
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50845
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50846
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50847
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50848
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50849
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50850
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50851
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50852
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_IP>:	140.113.214.197
+<S_PORT>:	50853
+<D_IP>:	140.114.69.135
+<S_PORT>:	50854
+<D_PORT>:	80
+<D_IP>:	140.114.69.135
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50855
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50856
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50857
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50858
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50859
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50860
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50861
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50862
+<D_IP>:	216.58.200.46
+<D_PORT>:	443
+<Command>:	CONNECT
+<Reply>:	Reject
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50863
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50864
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50865
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
+<S_IP>:	140.113.214.197
+<S_PORT>:	50866
+<D_IP>:	140.114.69.135
+<D_PORT>:	80
+<Command>:	CONNECT
+<Reply>:	Accept
+
